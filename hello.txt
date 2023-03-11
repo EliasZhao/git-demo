@@ -2,6 +2,6 @@ Hello Git! 2
 
 Hello Git! 3
 Hello Git!
-Hello Git!
+Hello Git! hot-fix test
 
 
